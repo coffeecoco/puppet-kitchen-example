@@ -12,3 +12,4 @@ describe 'ntp' do
     it {should be_running}
   end
 end
+

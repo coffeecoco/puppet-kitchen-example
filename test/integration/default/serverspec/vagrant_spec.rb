@@ -11,7 +11,7 @@ describe 'vagrant' do
     it {should be_grouped_into 'root'}
   end
 
-  describe file('/etc/puppet/puppet.conf') do
+  describe file('/etc/puppetlasbs/puppet//puppet.conf') do
     it {should be_file}
     its(:content) { should match /server = puppet.example.com/ }
   end
