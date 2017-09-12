@@ -1,4 +1,4 @@
 ---
 LIBRARIAN_PUPPET_DESTRUCTIVE: 'false'
 LIBRARIAN_PUPPET_USE_V1_API: '1'
-LIBRARIAN_PUPPET_PATH: "/var/folders/cw/5qs8sc510px5jhc5n44pd8ym0000gn/T/default-centos-65-sandbox-20170912-29711-1pga3j0/modules"
+LIBRARIAN_PUPPET_PATH: "/var/folders/cw/5qs8sc510px5jhc5n44pd8ym0000gn/T/default-nocm-ubuntu-1204-sandbox-20170912-29908-1kvkmh3/modules"
